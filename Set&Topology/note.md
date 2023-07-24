@@ -27,7 +27,7 @@
 
 $d^1,d^2,d^ \infty$を以下のように定義する
 
-$d^1$: $\sum_{n=1}^n |x_i - y_i|$ <br>
+$d^1$: $\sum_{n=1}^n |x_i - y_i|$   <br>
 
 $d^2$: $\sum_{n=1}^n \sqrt((x_i - y_i)^2)$ <br>
 
